@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Twandhi
 - 👀 I’m interested in making random applications and plugins while working on web development on the side.
-- 🌱 I’m currently doing an IT study.
+- 🌱 I’m currently working an IT job.
 - 📫 How to reach me: Twandhi#6986 (Discord)
 
 <!---
